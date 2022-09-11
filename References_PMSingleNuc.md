@@ -1,4 +1,4 @@
-## References for poster "Analysis of psychiatric disorders using single nuclei data from post-mortem human brain" at the meeting of Add-on fellows of the Joachim Herz Foundation
+## References for poster "Analysis of psychiatric disorders using single nuclei data from post-mortem human brain", Nathalie Gerstner, Max Planck Institute of Psychiatry
 
 1. Ge T, Chen CY, Ni Y et al. Polygenic prediction via Bayesian regression and continuous shrinkage priors. *Nat Commun.* 2019.
 2. Zheng, G., Terry, J., Belgrader, P. et al. Massively parallel digital transcriptional profiling of single cells. *Nat Commun.* 2017.
