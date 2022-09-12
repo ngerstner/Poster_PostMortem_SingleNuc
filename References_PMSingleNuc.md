@@ -9,4 +9,6 @@
 7. Lotfollahi M, Naghipourfar M, Luecken MD et al. Mapping single-cell data to reference atlases by transfer learning. *Nat Biotechnol.* 2021. 
 8. Granja JM, Corces MR, Pierce SE et al. ArchR is a scalable software package for integrative single-cell chromatin accessibility analysis. *Nat Genet.* 2021.
 9. Allen brain map: Human M1 10X. [Link to download page](https://portal.brain-map.org/atlases-and-data/rnaseq/human-m1-10x)
-10. Cross-Disorder Group of the Psychiatric Genomics Consortium. Genomic Relationships, Novel Loci, and Pleiotropic Mechanisms across Eight Psychiatric Disorders. *Cell.* 2019.
+10. Love MI, Huber W & Anders S. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. *Genome Biol* 2014.
+11. Cross-Disorder Group of the Psychiatric Genomics Consortium. Genomic Relationships, Novel Loci, and Pleiotropic Mechanisms across Eight Psychiatric Disorders. *Cell.* 2019.
+12. Huang G, Wang S et al. Depression-/Anxiety-Like Behaviour Alterations in Adult Slit2 Trangenic Mice. *Front. Behav. Neurosci.* 2021.
