@@ -1,4 +1,4 @@
-## References for poster "Analysis of psychiatric disorders using single nuclei data from post-mortem human brain", Nathalie Gerstner, Max Planck Institute of Psychiatry
+## References for poster "Multi-modal analysis of psychiatric disorders in the human cortex on a cell-type level", Nathalie Gerstner, Max Planck Institute of Psychiatry
 
 1. Ge T, Chen CY, Ni Y et al. Polygenic prediction via Bayesian regression and continuous shrinkage priors. *Nat Commun.* 2019.
 2. Zheng, G., Terry, J., Belgrader, P. et al. Massively parallel digital transcriptional profiling of single cells. *Nat Commun.* 2017.
@@ -10,5 +10,10 @@
 8. Granja JM, Corces MR, Pierce SE et al. ArchR is a scalable software package for integrative single-cell chromatin accessibility analysis. *Nat Genet.* 2021.
 9. Allen brain map: Human M1 10X. [Link to download page](https://portal.brain-map.org/atlases-and-data/rnaseq/human-m1-10x)
 10. Love MI, Huber W & Anders S. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. *Genome Biol* 2014.
-11. Cross-Disorder Group of the Psychiatric Genomics Consortium. Genomic Relationships, Novel Loci, and Pleiotropic Mechanisms across Eight Psychiatric Disorders. *Cell.* 2019.
-12. Huang G, Wang S et al. Depression-/Anxiety-Like Behaviour Alterations in Adult Slit2 Trangenic Mice. *Front. Behav. Neurosci.* 2021.
+11. Wu T, Hu E et al. clusterProfiler 4.0: A universal enrichment tool for interpreting omics data. *The Innovation.* 2021.
+12. Cross-Disorder Group of the Psychiatric Genomics Consortium. Genomic Relationships, Novel Loci, and Pleiotropic Mechanisms across Eight Psychiatric Disorders. *Cell.* 2019.
+13. Trubetskoy V, Pardiñas AF et al. Schizophrenia Working Group of the Psychiatric Genomics Consortium. Mapping genomic loci implicates genes and synaptic biology in schizophrenia. *Nature.* 2022. 
+14. Mullins N, Forstner AJ. Genome-wide association study of more than 40,000 bipolar disorder cases provides new insights into the underlying biology. *Nat Genet.* 2021.
+15. Howard DM, Adams MJ, Clarke TK. et al. Genome-wide meta-analysis of depression identifies 102 independent variants and highlights the importance of the prefrontal brain regions. *Nat Neurosci.* 2019.
+16. Yengo L, Vedantam S, Marouli E et al. A saturated map of common genetic variants associated with human height. *Nature.* 2022.
+#12. Huang G, Wang S et al. Depression-/Anxiety-Like Behaviour Alterations in Adult Slit2 Trangenic Mice. *Front. Behav. Neurosci.* 2021.
